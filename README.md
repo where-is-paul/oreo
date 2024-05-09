@@ -1,4 +1,7 @@
 # Dynamic Data Layout Optimization with Worst-case Guarantees 
+Authors: Kexin Rong, Paul Liu, Sarah Ashok Sonje, Moses Charikar
+
+Paper link: https://arxiv.org/abs/2405.04984
 
 ## Environment setup
 Run ```pip3 install -r requirements.txt``` to setup the required Python3 dependencies.
